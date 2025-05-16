@@ -10,7 +10,7 @@
 
 <br>
 <br>
-<h2 align="center"><u>My Web devoloper stack</u></h2>
+<h2 align="center"><u>My Web developer stack</u></h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
