@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rubén Vallejo</h1>
+<h1 align="center">Hi :wave: , I'm Rubén Vallejo :sunglasses: </h1>
 <h3 align="center">Web and Android developer.</h3>
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
