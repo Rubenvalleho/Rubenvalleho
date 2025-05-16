@@ -121,7 +121,7 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
+| _[Dashboard web](https://github.com/Zenith-FCT/data-clients-frontend)_            |   Web dashboard for visualizing business data           |
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
