@@ -121,7 +121,8 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[Dashboard web](https://github.com/Zenith-FCT/data-clients-frontend)_            |   Web dashboard for visualizing business data           |
+| [Dashboard - Frontend](https://github.com/Zenith-FCT/data-clients-frontend)            |   Web dashboard for visualizing business data           |
+| [Dashboard - Backend](https://github.com/Zenith-FCT/croxdata-api)            |   Web dashboard for visualizing business data           |
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
